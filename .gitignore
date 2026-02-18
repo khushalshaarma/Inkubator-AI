@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# nextjs
+.next
+out
+
+# env files
+.env
+.env.local
+
+# vercel
+.vercel
+
+# misc
+dist
+build
